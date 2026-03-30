@@ -22,7 +22,7 @@ Each week includes:
 
 # 🧭 Table of Contents
 
-- [Week 1](#-week-1--data--python-foundations)
+- [Week 2](#-week-2--data--python-foundations)
   - [Course 1: Data & Visualization](#-course-1-introduction-to-data--visualization)
   - [Course 2: Python for Data Analysis](#-course-2-introduction-to-python-for-data-analysis--visualization)
 
@@ -36,7 +36,7 @@ Each week includes:
 
 ---
 
-# 📅 Week 1 – Data & Python Foundations
+# 📅 Week 2 – Data & Python Foundations
 
 ## 📌 Overview
 Focused on **data fundamentals, visualization, and Python basics**.  
